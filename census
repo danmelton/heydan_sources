@@ -1,0 +1,24 @@
+{
+  "name": "census",
+  "short_description": "The United Stated Census Bureau",
+  "long_description": "The United Stated Census Bureau",
+  "notes": null,
+  "depends": null,
+  "sourceUrl": "https://www.census.gov",
+  "variables": {
+    "ansi_id": {
+      "id": "heydan_sources_census_ansi_id",
+      "name": "ansi_id",
+      "short_description": "American National Standards Institute",
+      "long_description": "Standardized numeric or alphabetic codes issued by the American National Standards Institute (ANSI) to ensure uniform identification of geographic entities through all federal government agencies",
+      "notes": "any notes about this variable",
+      "identifier": "open_civic_id",
+      "dates": [],
+      "tags": [],
+      "sourceUrl": "https://www.census.gov/geo/reference/ansi.html",
+      "jurisdiction_types": [],
+      "coverage": {
+      }
+    }
+  }
+}
