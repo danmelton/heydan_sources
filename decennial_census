@@ -1,0 +1,24 @@
+{
+  "name": "decennial_census",
+  "short_description": "The Decennial Census conducts a complete United States Census every ten years.",
+  "long_description": "The Decennial Census conducts a complete United States Census every ten years.",
+  "notes": null,
+  "depends": null,
+  "sourceUrl": "http://www.census.gov/data/developers/data-sets/decennial-census-data.html",
+  "variables": {
+    "total_population": {
+      "id": "heydan_sources_decennial_census_total_population",
+      "name": "total_population",
+      "short_description": "Total reported population",
+      "long_description": "",
+      "notes": "",
+      "identifier": "ansi_id",
+      "dates": [2010, 2000, 1990],
+      "tags": [],
+      "sourceUrl": "http://www.census.gov/data/developers/data-sets/decennial-census-data.html",
+      "jurisdiction_types": [],
+      "coverage": {
+      }
+    }
+  }
+}
