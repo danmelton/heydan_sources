@@ -19,6 +19,20 @@
       "jurisdiction_types": [],
       "coverage": {
       }
+    },
+    "median_household_income": {
+      "id": "heydan_sources_census_median_household_income",
+      "name": "median_household_income",
+      "short_description": "Median Household Income from American Community Survey",
+      "long_description": "",
+      "notes": "",
+      "identifier": "ansi_id",
+      "dates": [],
+      "tags": [],
+      "sourceUrl": "https://www.census.gov/geo/reference/ansi.html",
+      "jurisdiction_types": [],
+      "coverage": {
+      }
     }
   }
 }
